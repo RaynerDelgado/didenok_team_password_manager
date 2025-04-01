@@ -30,8 +30,8 @@ This application implements a backend system for managing users and their tasks,
    - Body (JSON):
      ```json
         {
-                "service_name": "service",
-                "password": "1234567890qwe"
+            "service_name": "service",
+            "password": "1234567890qwe"
         }  
      ```
    - Response (JSON):
