@@ -60,11 +60,11 @@ This application implements a backend system for managing users and their tasks,
      ```json
         [
             {
-                "service_name": "service2",
-                "password": "qwe123123123123123123q"
+                "service_name": "service",
+                "password": "1234567890qwe"
             },
             {
-                "service_name": "service1",
+                "service_name": "service2",
                 "password": "qwe123123123123123123q"
             }
         ]
