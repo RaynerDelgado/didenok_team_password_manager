@@ -73,8 +73,8 @@ This application implements a backend system for managing users and their tasks,
 
 1. Perform comand
 ```bash
-git clone https://github.com/RaynerDelgado/PythonFastAPI.git
-cd PythonFastAPI
+git clone https://github.com/RaynerDelgado/didenok_team_password_manager.git
+cd didenok_team_password_manager
 pip install -r requirements.txt
 ```
 
@@ -103,8 +103,8 @@ uvicorn src.main:app --reload
 
 1. Perform comand
 ```bash
-git clone https://github.com/RaynerDelgado/PythonFastAPI.git
-cd PythonFastAPI
+git clone https://github.com/RaynerDelgado/didenok_team_password_manager.git
+cd didenok_team_password_manager
 pip install -r requirements.txt
 ```
 
